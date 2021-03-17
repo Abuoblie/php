@@ -1,0 +1,10 @@
+{
+        "recommendations": [
+                "wongjn.php-sniffer",
+                "sophisticode.php-formatter",
+                "phiter.phpstorm-snippets",
+                "brapifra.phpserver",
+                "ikappas.phpcs",
+                "rifi2k.format-html-in-php"
+        ]
+}

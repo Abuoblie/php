@@ -1,0 +1,3 @@
+{
+        "phpcs.executablePath": "/Users/your-username/.composer/vendor/bin/phpcs"
+}
