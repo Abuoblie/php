@@ -5,6 +5,7 @@
                 "phiter.phpstorm-snippets",
                 "brapifra.phpserver",
                 "ikappas.phpcs",
-                "rifi2k.format-html-in-php"
+                "rifi2k.format-html-in-php",
+                "formulahendry.auto-close-tag"
         ]
 }
